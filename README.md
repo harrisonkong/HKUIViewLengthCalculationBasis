@@ -38,7 +38,7 @@ Use one of the following methods:
 
 ### 1. Using CocoaPod ###
 
-The module is avabilable via CocoaPods Trunk. Below is an example podfile. If you already use a podfile for your project, all you have to do is add the line that specifies `HKUILabel`. The other dependencies will also be automatically installed in the xcworkspace.
+The module is avabilable via CocoaPods Trunk. Below is an example podfile. If you already use a podfile for your project, all you have to do is add the line that specifies `HKUIViewLengthCalculationBasis`. Any dependencies will also be automatically installed in the xcworkspace.
 
 ```
 platform :ios, '8.0'
