@@ -1,4 +1,4 @@
-# Podspec for HKLengthCalculationBasis
+# Podspec for HKUILengthCalculationBasis
 #   Created by Harrison Kong on 2020/01/19
 
 Pod::Spec.new do |s|
