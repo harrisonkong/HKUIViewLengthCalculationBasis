@@ -1,6 +1,6 @@
 # <img src="./docs/logo256.jpg" width="40" height="40" alt="skyRoute66 logo" style="vertical-align:middle"> HKUIViewLengthCalculationBasis #
 ![Swift](https://img.shields.io/static/v1?label=Swift&message=4.0%20or%20above&color=%23FF4400&style=plastic) ![iOS](https://img.shields.io/static/v1?label=iOS&&message=8.0%20or%20above&color=yellow&style=plastic) ![Cocoapods](https://img.shields.io/cocoapods/v/HKUIViewLengthCalculationBasis?label=pod&color=brightgreen&style=plastic) ![Cocoapods](https://img.shields.io/cocoapods/l/HKUIViewLengthCalculationBasis?color=blue&style=plastic) ![Category](https://img.shields.io/static/v1?label=category&message=Type%20Definition&color=blueviolet&style=plastic) 
-#### HK UIView Length Calculation Basis Enumeration ####
+#### Harrison Kong's UIView Length Calculation Basis Enumeration ####
 
 <img src="./docs/cloudline.png" alt="---line---">
 
