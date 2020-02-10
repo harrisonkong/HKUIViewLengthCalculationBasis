@@ -30,6 +30,8 @@ This is defined as an objective C raw Int enum makes it adaptable as an `@IBInsp
 }
 ```
 
+<img src="./docs/cloudline.png" alt="---line---">
+
 ## HOW TO INSTALL IT ##
 
 Use one of the following methods:
@@ -64,6 +66,9 @@ You can also simply include the following source files in your project:
 ```
 HKUIViewLengthCalculationBasis.swift
 ```
+
+<img src="./docs/cloudline.png" alt="---line---">
+
 ## HOW TO USE IT ##
 
 Declare it as a variable/constant type. Example:
@@ -71,6 +76,8 @@ Declare it as a variable/constant type. Example:
 ```
 let basis : LengthCalculationBasis = .width
 ```
+
+<img src="./docs/cloudline.png" alt="---line---">
 
 ## KNOWN ISSUES ##
 
